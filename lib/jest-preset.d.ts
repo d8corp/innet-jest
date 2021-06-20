@@ -1,6 +1,6 @@
 declare const _default: {
     transform: {
-        '\\.(jsx|tsx)$': string;
+        '\\.(ts|jsx|tsx)$': string;
     };
 };
 export default _default;

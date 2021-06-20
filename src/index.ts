@@ -10,7 +10,8 @@ const transform = require('rollup-plugin-innet-jsx')().transform.bind({
 
 export class InnetJestTransformer extends TsJestTransformer {
   process (fileContent, filePath, jestConfig) {
-    return transform(super.process(fileContent, filePath, jestConfig), filePath)
+    const js = super.process(fileContent, filePath, jestConfig)
+    return transform(js, filePath) || js
   }
 }
 

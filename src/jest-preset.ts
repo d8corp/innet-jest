@@ -1,5 +1,5 @@
 export default {
   transform: {
-    '\\.(jsx|tsx)$': 'innet-jest'
+    '\\.(ts|jsx|tsx)$': 'innet-jest'
   }
 }
