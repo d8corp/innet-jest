@@ -1,0 +1,33 @@
+{
+  "name": "innet-jest",
+  "version": "1.0.0",
+  "description": "Preset of Jest for innet",
+  "homepage": "https://github.com/d8corp/innet-jest",
+  "author": "Mikhail Lysikov <d8corp@mail.ru>",
+  "license": "MIT",
+  "main": "index.js",
+  "module": "index.es6.js",
+  "jsnext:main": "index.es6.js",
+  "types": "index.d.ts",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/d8corp/innet-jest.git"
+  },
+  "keywords": [
+    "jest",
+    "test",
+    "plugin",
+    "innet",
+    "preset",
+    "innetjs",
+    "front-end"
+  ],
+  "bugs": {
+    "url": "https://github.com/d8corp/innet-jest/issues"
+  },
+  "dependencies": {
+    "ts-jest": "^27.0.3",
+    "rollup-plugin-innet-jsx": "^1.0.1",
+    "tslib": "^2.3.0"
+  }
+}
