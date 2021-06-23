@@ -1,6 +1,6 @@
 {
   "name": "innet-jest",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "Preset of Jest for innet",
   "homepage": "https://github.com/d8corp/innet-jest",
   "author": "Mikhail Lysikov <d8corp@mail.ru>",
@@ -27,7 +27,7 @@
   },
   "dependencies": {
     "ts-jest": "^26.5.6",
-    "rollup-plugin-innet-jsx": "^1.0.4",
+    "rollup-plugin-innet-jsx": "^1.0.5",
     "tslib": "^1.8.1"
   }
 }

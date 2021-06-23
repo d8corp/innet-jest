@@ -1,5 +1,7 @@
 # Changelog
 ## v1.0
+### v1.0.5 [![24.06.2021](https://img.shields.io/date/1624490960)](https://github.com/d8corp/watch-state/tree/v1.0.5)
+- updated rollup-plugin-innet-jsx version
 ### v1.0.4 [![24.06.2021](https://img.shields.io/date/1624490057)](https://github.com/d8corp/watch-state/tree/v1.0.4)
 - updated rollup-plugin-innet-jsx version to fix dependency bugs
 ### v1.0.3 [![24.06.2021](https://img.shields.io/date/1624487662)](https://github.com/d8corp/watch-state/tree/v1.0.3)
