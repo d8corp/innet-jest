@@ -1,6 +1,6 @@
 # innet-jest
 [![NPM](https://img.shields.io/npm/v/innet-jest.svg)](https://www.npmjs.com/package/innet-jsx)
-[![downloads](https://img.shields.io/npm/dm/innet-jest.svg)](https://snyk.io/advisor/npm-package/innet-jsx)
+[![downloads](https://img.shields.io/npm/dm/innet-jest.svg)](https://www.npmtrends.com/innet-jsx)
 [![license](https://img.shields.io/npm/l/innet-jest)](https://github.com/d8corp/innet-jest/blob/master/LICENSE)
 
 This preset helps work with [Jest](https://www.npmjs.com/package/jest) and [innet](https://www.npmjs.com/package/innet).
