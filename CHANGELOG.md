@@ -1,5 +1,7 @@
 # Changelog
 ## v1.1
+### v1.1.1 [![25.06.2021](https://img.shields.io/date/1624633239)](https://github.com/d8corp/innet-jest/tree/v1.1.1)
+- fixed source map bugs
 ### v1.1.0 [![24.06.2021](https://img.shields.io/date/1624564780)](https://github.com/d8corp/innet-jest/tree/v1.1.0)
 - changed readme
 ## v1.0
