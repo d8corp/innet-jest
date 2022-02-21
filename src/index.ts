@@ -11,3 +11,8 @@ export class InnetJestTransformer extends TsJestTransformer {
 export function createTransformer () {
   return new InnetJestTransformer()
 }
+
+export default {
+  InnetJestTransformer,
+  createTransformer,
+}
