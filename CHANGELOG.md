@@ -1,5 +1,11 @@
 # Changelog
 
+## v1.3
+
+### v1.3.0 [![10.04.2022](https://img.shields.io/date/1649588651)](https://github.com/d8corp/innet-jest/tree/v1.3.0)
+- update dependencies
+- changed space handling algorithm
+
 ## v1.2
 
 ### v1.2.2 [![22.03.2022](https://img.shields.io/date/1647979183)](https://github.com/d8corp/innet-jest/tree/v1.2.2)
