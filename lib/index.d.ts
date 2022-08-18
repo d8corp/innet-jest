@@ -1,4 +1,4 @@
-import { TsJestTransformer } from 'ts-jest/dist/ts-jest-transformer';
+import { TsJestTransformer } from 'ts-jest';
 export declare class InnetJestTransformer extends TsJestTransformer {
     process(fileContent: any, jsxFile: any, jestConfig: any): import("innet-jsx").TransformResult;
 }
