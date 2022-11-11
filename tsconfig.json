@@ -22,6 +22,9 @@
     "declaration": true
   },
   "include": [
-    "index.ts"
+    "src"
+  ],
+  "exclude": [
+    "**/*.test.ts"
   ]
 }

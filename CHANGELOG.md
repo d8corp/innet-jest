@@ -2,6 +2,9 @@
 
 ## v1.3
 
+### v1.3.3 [![11.11.2022](https://img.shields.io/date/1668164461)](https://github.com/d8corp/innet-jest/tree/v1.3.3)
+- update dependencies
+
 ### v1.3.2 [![19.08.2022](https://img.shields.io/date/1660896655)](https://github.com/d8corp/innet-jest/tree/v1.3.2)
 - update dependencies
 
