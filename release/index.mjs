@@ -17,5 +17,9 @@ var InnetJestTransformer = /** @class */ (function (_super) {
 function createTransformer() {
     return new InnetJestTransformer();
 }
+var index = {
+    InnetJestTransformer: InnetJestTransformer,
+    createTransformer: createTransformer,
+};
 
-export { InnetJestTransformer, createTransformer };
+export { InnetJestTransformer, createTransformer, index as default };

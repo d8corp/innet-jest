@@ -1,6 +1,6 @@
 {
   "name": "innet-jest",
-  "version": "1.3.3",
+  "version": "1.3.4",
   "description": "Preset of Jest for innet",
   "homepage": "https://github.com/d8corp/innet-jest",
   "author": "Mikhail Lysikov <d8corp@mail.ru>",
