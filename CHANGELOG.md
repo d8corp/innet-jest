@@ -2,6 +2,9 @@
 
 ## v1.3
 
+### v1.3.5 [![11.11.2022](https://img.shields.io/date/1668166789)](https://github.com/d8corp/innet-jest/tree/v1.3.5)
+- fix map error
+
 ### v1.3.4 [![11.11.2022](https://img.shields.io/date/1668165347)](https://github.com/d8corp/innet-jest/tree/v1.3.4)
 - fix a bug
 
