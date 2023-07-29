@@ -2,8 +2,7 @@
 
 var jestPreset = {
     transform: {
-        '\\.(ts|jsx|tsx)$': 'innet-jest',
-        ".*": "jest-raw-loader",
+        '.*': 'innet-jest',
     },
     moduleNameMapper: {
         "^/$": "<rootDir>/src",

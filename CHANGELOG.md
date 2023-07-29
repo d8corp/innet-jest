@@ -2,6 +2,9 @@
 
 ## v1.3
 
+### v1.3.7 [![29.07.2023](https://img.shields.io/date/1690616254)](https://github.com/d8corp/innet-jest/tree/v1.3.7)
+- fix bugs
+
 ### v1.3.6 [![29.07.2023](https://img.shields.io/date/1690614091)](https://github.com/d8corp/innet-jest/tree/v1.3.6)
 - add the rest files import preset
 
