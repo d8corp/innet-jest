@@ -1,5 +1,10 @@
 # Changelog
 
+## v2.0
+
+### v2.0.0 [![01.05.2025](https://img.shields.io/date/1746129936)](https://github.com/d8corp/innet-jest/tree/v2.0.0)
+- update `innet-jsx`
+
 ## v1.3
 
 ### v1.3.7 [![29.07.2023](https://img.shields.io/date/1690616254)](https://github.com/d8corp/innet-jest/tree/v1.3.7)
